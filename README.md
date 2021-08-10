@@ -10,6 +10,7 @@ Token Contract Address (Rinkeby): 0x1eBC85603aD5f648a87086A218fd3c391b398fad
 
 
 Dependencies:
+
 Truffle v5.4.2 (core: 5.4.2)
 
 OpenZeppelin/contracts v4.2.0
